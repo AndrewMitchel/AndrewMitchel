@@ -2,12 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Jalan otomatis tiap hari jam 00:00 UTC. Boleh diubah jadwalnya.
+    # Jalan otomatis tiap hari jam 00:00 UTC (07:00 WIB).
     - cron: "0 0 * * *"
   workflow_dispatch: {}   # supaya bisa dijalankan manual dari tab Actions
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
