@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#none"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:2C5364&height=240&section=header&text=Andrew%20Mitchel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Flutter%20and%20Backend%20Developer&descAlignY=62&descSize=20&v=3" width="100%"/></a>
+<a href="#none"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:2C5364&height=240&section=header&text=Andrew%20Mitchel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&v=4" width="100%"/></a>
 
 <a href="#none"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=7FB7CC&center=true&vCenter=true&width=640&lines=Building+real-world+apps+with+Flutter+and+Python;Shipping+a+POS+system+and+a+learning+platform;Always+debugging%2C+always+learning" alt="Typing SVG" /></a>
 
