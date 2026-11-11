@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hi%20there%2C%20I%27m%20Andrew%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hi%20there%2C%20I%27m%20Andrew%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20and%20Backend%20Developer&descAlignY=58&descSize=18&v=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Building+real-world+apps+with+Flutter+and+Python;Currently+shipping+a+POS+system+and+a+learning+platform;Always+debugging%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -52,7 +52,7 @@ fun_fact: "99% of my commits start with 'fix: ...' and that 1% is 'feat: finally
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewMitchel&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=AndrewMitchel&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -77,9 +77,6 @@ fun_fact: "99% of my commits start with 'fix: ...' and that 1% is 'feat: finally
 <!--END_SECTION:snake-->
 
 </div>
-
-> ⚙️ Animasi ular di atas baru muncul setelah workflow `snake.yml` (ada di
-> paket file ini) dijalankan sekali. Lihat bagian **Cara Pasang** di bawah.
 
 <br/>
 
