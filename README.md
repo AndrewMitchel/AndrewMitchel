@@ -42,16 +42,17 @@ currently:
 
 <br/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/master/assets/hero.svg?v=1" alt="Mobile. Backend. Production." width="100%" />
+
+</div>
+
+<br/>
+
 ## Activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/master/profile-3d-contrib/profile-night-view.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/master/profile-3d-contrib/profile-gitblock.svg" width="100%">
-</picture>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=AndrewMitchel&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
 
