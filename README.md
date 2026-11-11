@@ -64,10 +64,9 @@
 
 <div align="center">
 
-<!-- Ganti href dengan akun aslimu, atau hapus baris yang nggak dipakai -->
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://ancode.my.id/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.instagram.com/andrawy_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://sociabuzz.com/andrewputra/tribe"><img src="https://img.shields.io/badge/Traktir%20Kopi-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Traktir Kopi" /></a>
 
 </div>
 
