@@ -17,18 +17,11 @@
 
 ## About
 
-```yaml
-name: Andrew Mitchel
-role: Flutter Developer & Backend Tinkerer
-focus:
-  - Mobile apps that solve real business problems (POS, inventory)
-  - Flutter Web + FastAPI backends for learning platforms
-  - Firebase, REST APIs, and making things work in production
-currently:
-  - POS app with printer and scanner integration
-  - BioVerse, an interactive biology learning platform
-  - Home server for my own deployments
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/master/assets/about.svg?v=1" alt="Andrew is a Flutter and backend developer building a POS app and BioVerse, an interactive biology platform." width="100%" />
+
+</div>
 
 <br/>
 
