@@ -47,8 +47,8 @@ currently:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/main/profile-3d-contrib/profile-gitblock.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/AndrewMitchel/AndrewMitchel/main/profile-3d-contrib/profile-green-animate.svg" width="100%">
 </picture>
 
 <br/>
